@@ -1,0 +1,51 @@
+.heading
+{
+    font-size:25px;
+    width:60%;
+    margin:0px;
+    box-shadow:5px 5px 5px pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    border-width:3px;
+    border-color:rgb(78, 248, 129);
+    border-style:ridge;
+}
+
+.login_div
+{
+    float: none;
+    background:white;
+    padding:10px;
+    border-radius: 20px;
+    color:black;
+    box-shadow:5px 5px 5px black;
+}
+    
+.result_para_tag
+{
+    box-shadow:5px 5px 5px purple;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:rgb(0, 4, 255);
+    bottom:0;
+    width:100%;
+    background-color:pink;
+    line-height:3;
+    text-align:center;
+    font-size:15px;
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-weight:bold;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px black;
+    margin-top:150px;
+}
